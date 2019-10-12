@@ -15,6 +15,16 @@ npm run serve
 npm run build
 ```
 
+### Compiles and minifies for production + opens electron window
+```
+npm run start
+```
+
+### Opens electron window with last build
+```
+npm run start:electron
+```
+
 ### Run your unit tests
 ```
 npm run test:unit
