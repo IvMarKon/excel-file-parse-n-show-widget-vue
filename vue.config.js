@@ -6,7 +6,7 @@ module.exports = {
         '/'
       ],
       useRenderEvent: false,
-      headless: false,
+      headless: true,
       onlyProduction: false
     }
   }
